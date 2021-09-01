@@ -1,7 +1,7 @@
 # Alexandre Suriano
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/luansapelli)](https://github.com/alexsuriano)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsuriano/)](https://www.linkedin.com/in/luansapelli/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsuriano/)](https://www.linkedin.com/in/alexsuriano/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luansapelli@gmail.com)](mailto:alexandre.suriano@gmail.com)
 
 - 💼 I'm a software engineer at [Serasa](https://www.linkedin.com/company/serasa)
