@@ -7,7 +7,7 @@
 - 💼  I'm a software engineer at [Serasa](https://www.linkedin.com/company/serasa)
 - 🏠  From Bauru/Brazil to the world.
 - 🙃  Always learning new technologies.
-- ☕ Turning coffee into code.
+- ☕   Turning coffee into code.
 
 <br>
 
