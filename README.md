@@ -4,10 +4,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsuriano/)](https://www.linkedin.com/in/alexsuriano/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luansapelli@gmail.com)](mailto:alexandre.suriano@gmail.com)
 
-- 💼  I'm a Software Engineer.
+- 💻  I'm a Software Engineer.
 - 🏠  From Bauru/Brazil to the world.
-- 🙃  Always learning new technologies.
-- ☕   Turning coffee into code.
+- 📖  Always learning. 
+- ☕   Coffee lover.
 
 <br>
 
